@@ -4,6 +4,8 @@ import queue
 import time
 
 # Домашнее задание по теме "Очереди для обмена данными между потоками."
+
+
 class Table:
     def __init__(self, number):
         self.number = number
